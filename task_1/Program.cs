@@ -6,3 +6,4 @@ double n2 = Convert.ToDouble(Console.ReadLine());
 if(n1 > n2) { Console.WriteLine("максимальное число - " + n1); Console.WriteLine("минимальное число - " + n2); }
 else if (n2 > n1) { Console.WriteLine("максимальное число - " + n2); Console.WriteLine("минимальное число - " + n1);}
 else Console.Write("Данные числа равны");
+
